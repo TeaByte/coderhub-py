@@ -1,0 +1,3 @@
+from typing import List
+def div_remainder(a: int, b: int) -> int:
+    return a%b
